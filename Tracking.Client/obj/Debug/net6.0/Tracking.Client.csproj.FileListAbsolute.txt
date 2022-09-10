@@ -1,0 +1,15 @@
+D:\Development\C#\APIs\TrackingAPI\Tracking.Client\obj\Debug\net6.0\Tracking.Client.csproj.AssemblyReference.cache
+D:\Development\C#\APIs\TrackingAPI\Tracking.Client\obj\Debug\net6.0\Tracking.Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\C#\APIs\TrackingAPI\Tracking.Client\obj\Debug\net6.0\Tracking.Client.AssemblyInfoInputs.cache
+D:\Development\C#\APIs\TrackingAPI\Tracking.Client\obj\Debug\net6.0\Tracking.Client.AssemblyInfo.cs
+D:\Development\C#\APIs\TrackingAPI\Tracking.Client\obj\Debug\net6.0\Tracking.Client.csproj.CoreCompileInputs.cache
+D:\Development\C#\APIs\TrackingAPI\Tracking.Client\bin\Debug\net6.0\Tracking.Client.exe
+D:\Development\C#\APIs\TrackingAPI\Tracking.Client\bin\Debug\net6.0\Tracking.Client.deps.json
+D:\Development\C#\APIs\TrackingAPI\Tracking.Client\bin\Debug\net6.0\Tracking.Client.runtimeconfig.json
+D:\Development\C#\APIs\TrackingAPI\Tracking.Client\bin\Debug\net6.0\Tracking.Client.dll
+D:\Development\C#\APIs\TrackingAPI\Tracking.Client\bin\Debug\net6.0\Tracking.Client.pdb
+D:\Development\C#\APIs\TrackingAPI\Tracking.Client\obj\Debug\net6.0\Tracking.Client.dll
+D:\Development\C#\APIs\TrackingAPI\Tracking.Client\obj\Debug\net6.0\refint\Tracking.Client.dll
+D:\Development\C#\APIs\TrackingAPI\Tracking.Client\obj\Debug\net6.0\Tracking.Client.pdb
+D:\Development\C#\APIs\TrackingAPI\Tracking.Client\obj\Debug\net6.0\Tracking.Client.genruntimeconfig.cache
+D:\Development\C#\APIs\TrackingAPI\Tracking.Client\obj\Debug\net6.0\ref\Tracking.Client.dll

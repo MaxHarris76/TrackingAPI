@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrackingAPI", "TrackingAPI\TrackingAPI.csproj", "{270C7005-A57C-4CD7-8B69-C501B2AD7EBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tracking.Client", "Tracking.Client\Tracking.Client.csproj", "{1C2A6AD9-4CA5-4734-9374-8409C152606A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{270C7005-A57C-4CD7-8B69-C501B2AD7EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270C7005-A57C-4CD7-8B69-C501B2AD7EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270C7005-A57C-4CD7-8B69-C501B2AD7EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270C7005-A57C-4CD7-8B69-C501B2AD7EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C2A6AD9-4CA5-4734-9374-8409C152606A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2A6AD9-4CA5-4734-9374-8409C152606A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2A6AD9-4CA5-4734-9374-8409C152606A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2A6AD9-4CA5-4734-9374-8409C152606A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCE35B0E-B768-40FA-B2E3-F07453506E6E}
+	EndGlobalSection
+EndGlobal
